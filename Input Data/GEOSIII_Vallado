@@ -1,0 +1,13 @@
+SAT 7734 GEOS-III
+
+Site Location:
+    Lon     -158.239222     [deg]
+    Lat     21.561389       [deg]
+    Alt     0.460           [km]
+
+
+
+Observation#    Year    Month   Day   Hour   Minute   Second   Az [deg]   El [deg]      Mjd
+    1           1995        1    29     02       38       37    60.4991    16.1932      49746.11015046
+    2           1995        1    29     02       42       51   131.5544    32.5864      49746.11309028
+    3           1995        1    29     02       47       33   183.1692     7.3970      49746.11635417
